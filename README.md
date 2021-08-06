@@ -1,6 +1,6 @@
 - ✋ Hi, I’m @OGsend
-- 🤑 I’m interested in ...
-- 🤓 I’m currently learning ...
+- 🤑 I’m interested in machine learning
+- 🤓 I’m currently learning python 
 
 
 <!---
